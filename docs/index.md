@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Genét Davis' Resume
 ---
+
 # Genét Davis
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+The second prope Church of Jesus Christ of Latter-day Saints.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="davisgenet@gmail.com">davisgenet@gmail.com</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
@@ -16,70 +16,65 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`2019-CURRENT`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Field of study: Biostatistics
+- GPA: 3.9
+- Programing Languages: C++, R, SQL and Mathematica 
+- Proficient with: Microsoft Office, Outlook, RStudio
 
 
-## Related Experience
+`2016-2017`
+__Weber State University__, Ogden, UT
 
-### Internships
+- Published in Undergraduate Literary Conference
+- English major
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+`2013-2016`
+__Davis High School__, Kaysville, UT
+- GPA: 3.9
+- ACT: 32
+- Advanced Placement: Composition, Literature, BC Calculus, US History, and Human Geography. Honors Chemistry and Biotechnology.
+- Experience with Python and Java Script.
 
 
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+## General Experience
 
+
+`Jan 5th 2022- March 11th 2022`
+__Utah State Legislature__, Bill Room Clerk
+
+- Printed, organized, and provided bills and other materials for the Legislative session. Worked with Representatives, Senators, and Lobbyists from the entire political spectrum. Included providing information, directions and help to the general public at the Capitol building. 
+
+
+`April 20th 2020 – Sept 9th 2020`
+__Interdisciplinary Studies Office BYUI__, Data Analyst
+
+- Analyzed and summarized student data, utilizing both R and Excel. Created, managed, and edited source code for various projects. Handled student questions and issues over the phone, through email and in-person. Worked with a team on large scale, deadline heavy projects. 
+
+`2020–2021`
+__Mathematics Department BYUI, Garrett Saunders__, Teacher Assistant + Tutor_
+
+- Teaching and assisting students with the study of statistics and the programming language R. This was for the Biostatistics (Math 221) and Intermediate Statistics (Math 325). 
+- I was a one-on-one, course specific tutor for Math 221, and Math 325 both of which deal directly with statistical analysis. Math 325 included heavy use of the programming language R. I expanded understanding and helped students solve coding problems. 
+ 
+
+
+`2019–2020`
+__Bennion Crafts__, Sales Associate
+
+- Preformed detailed transactions and conducted inventory checks. Crafted product to sell on the store floor and assisted customers with their specific needs. 
+
+`June 2017– May 2019`
+__Church of Jesus Christ of Latter-Day Saints__, Missionary
+
+- Conducted detailed record keeping and data entry. Taught and trained other missionaries in their work. Worked with, and led, teams to further personal, and mission-wide goals. 
+
+
+## References
 
 
 <!-- ### Footer
