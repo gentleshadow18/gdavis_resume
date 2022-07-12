@@ -4,12 +4,11 @@ title: Genét Davis' Resume
 ---
 
 # Genét Davis
-The second prope Church of Jesus Christ of Latter-day Saints.
+
 
 <div id="webaddress">
 <a href="davisgenet@gmail.com">davisgenet@gmail.com</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/gentleshadow18/gdavis_resume">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -73,8 +72,6 @@ __Church of Jesus Christ of Latter-Day Saints__, Missionary
 
 - Conducted detailed record keeping and data entry. Taught and trained other missionaries in their work. Worked with, and led, teams to further personal, and mission-wide goals. 
 
-
-## References
 
 
 <!-- ### Footer
